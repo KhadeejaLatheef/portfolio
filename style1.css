@@ -1,0 +1,31 @@
+.heading{
+    color: white;
+    font-size: xx-large;
+}
+/* .logo{
+    height:0% ;
+    width: 0%;
+    margin-top: -200px;
+    margin-left: -10px;
+} */
+.head
+{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+/* .images{
+    height: 500px;
+    width:500px;
+    margin: ;
+   
+} */
+.para{
+    color: white;
+    font-size:medium;
+}
+.body{
+    height:200px;
+    width:200px; 
+    
+}
